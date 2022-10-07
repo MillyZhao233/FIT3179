@@ -10,7 +10,7 @@
       "title": {"font": "Open Sans", "subtitleFont": "Open Sans"}
     },
     "data": {
-        "url": "../data/processed/indicator_year.csv"
+        "url": "https://raw.githubusercontent.com/MillyZhao233/FIT3179/main/data/indicator_year.csv"
     }, "background": "#f2f3f7",
     
     "params": [
