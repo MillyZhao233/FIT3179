@@ -1,0 +1,839 @@
+,City1_State,City1,City2_State,City2,Month_num,Passenger_Trips
+0,New South Wales,ALBURY,New South Wales,SYDNEY,1,12665
+1,New South Wales,ALBURY,New South Wales,SYDNEY,2,15546
+2,New South Wales,ALBURY,New South Wales,SYDNEY,3,12140
+3,New South Wales,ALBURY,New South Wales,SYDNEY,4,314
+4,New South Wales,ALBURY,New South Wales,SYDNEY,5,416
+5,New South Wales,ALBURY,New South Wales,SYDNEY,6,0
+6,New South Wales,ALBURY,New South Wales,SYDNEY,7,0
+7,New South Wales,ALBURY,New South Wales,SYDNEY,8,0
+8,New South Wales,ALBURY,New South Wales,SYDNEY,9,0
+9,New South Wales,ALBURY,New South Wales,SYDNEY,10,0
+10,New South Wales,ALBURY,New South Wales,SYDNEY,11,0
+11,New South Wales,ALBURY,New South Wales,SYDNEY,12,0
+12,South Australia,ADELAIDE,Northern Territory,ALICE SPRINGS,1,8618
+13,South Australia,ADELAIDE,Northern Territory,ALICE SPRINGS,2,8505
+14,South Australia,ADELAIDE,Northern Territory,ALICE SPRINGS,3,7152
+15,South Australia,ADELAIDE,Northern Territory,ALICE SPRINGS,4,0
+16,South Australia,ADELAIDE,Northern Territory,ALICE SPRINGS,5,0
+17,South Australia,ADELAIDE,Northern Territory,ALICE SPRINGS,6,0
+18,South Australia,ADELAIDE,Northern Territory,ALICE SPRINGS,7,0
+19,South Australia,ADELAIDE,Northern Territory,ALICE SPRINGS,8,0
+20,South Australia,ADELAIDE,Northern Territory,ALICE SPRINGS,9,0
+21,South Australia,ADELAIDE,Northern Territory,ALICE SPRINGS,10,9390
+22,South Australia,ADELAIDE,Northern Territory,ALICE SPRINGS,11,0
+23,South Australia,ADELAIDE,Northern Territory,ALICE SPRINGS,12,0
+24,South Australia,ADELAIDE,Queensland,BRISBANE,1,75173
+25,South Australia,ADELAIDE,Queensland,BRISBANE,2,60687
+26,South Australia,ADELAIDE,Queensland,BRISBANE,3,45456
+27,South Australia,ADELAIDE,Queensland,BRISBANE,4,0
+28,South Australia,ADELAIDE,Queensland,BRISBANE,5,0
+29,South Australia,ADELAIDE,Queensland,BRISBANE,6,0
+30,South Australia,ADELAIDE,Queensland,BRISBANE,7,18226
+31,South Australia,ADELAIDE,Queensland,BRISBANE,8,27220
+32,South Australia,ADELAIDE,Queensland,BRISBANE,9,29020
+33,South Australia,ADELAIDE,Queensland,BRISBANE,10,44849
+34,South Australia,ADELAIDE,Queensland,BRISBANE,11,27540
+35,South Australia,ADELAIDE,Queensland,BRISBANE,12,32187
+36,South Australia,ADELAIDE,Australian Capital Territory,CANBERRA,1,12283
+37,South Australia,ADELAIDE,Australian Capital Territory,CANBERRA,2,14618
+38,South Australia,ADELAIDE,Australian Capital Territory,CANBERRA,3,10147
+39,South Australia,ADELAIDE,Australian Capital Territory,CANBERRA,4,0
+40,South Australia,ADELAIDE,Australian Capital Territory,CANBERRA,5,0
+41,South Australia,ADELAIDE,Australian Capital Territory,CANBERRA,6,0
+42,South Australia,ADELAIDE,Australian Capital Territory,CANBERRA,7,0
+43,South Australia,ADELAIDE,Australian Capital Territory,CANBERRA,8,0
+44,South Australia,ADELAIDE,Australian Capital Territory,CANBERRA,9,0
+45,South Australia,ADELAIDE,Australian Capital Territory,CANBERRA,10,9597
+46,South Australia,ADELAIDE,Australian Capital Territory,CANBERRA,11,0
+47,South Australia,ADELAIDE,Australian Capital Territory,CANBERRA,12,9412
+48,South Australia,ADELAIDE,Victoria,MELBOURNE,1,199543
+49,South Australia,ADELAIDE,Victoria,MELBOURNE,2,193053
+50,South Australia,ADELAIDE,Victoria,MELBOURNE,3,129445
+51,South Australia,ADELAIDE,Victoria,MELBOURNE,4,4487
+52,South Australia,ADELAIDE,Victoria,MELBOURNE,5,6165
+53,South Australia,ADELAIDE,Victoria,MELBOURNE,6,7413
+54,South Australia,ADELAIDE,Victoria,MELBOURNE,7,4137
+55,South Australia,ADELAIDE,Victoria,MELBOURNE,8,1191
+56,South Australia,ADELAIDE,Victoria,MELBOURNE,9,1369
+57,South Australia,ADELAIDE,Victoria,MELBOURNE,10,0
+58,South Australia,ADELAIDE,Victoria,MELBOURNE,11,0
+59,South Australia,ADELAIDE,Victoria,MELBOURNE,12,62656
+60,South Australia,ADELAIDE,Queensland,GOLD COAST,1,19708
+61,South Australia,ADELAIDE,Queensland,GOLD COAST,2,16186
+62,South Australia,ADELAIDE,Queensland,GOLD COAST,3,11638
+63,South Australia,ADELAIDE,Queensland,GOLD COAST,4,0
+64,South Australia,ADELAIDE,Queensland,GOLD COAST,5,0
+65,South Australia,ADELAIDE,Queensland,GOLD COAST,6,0
+66,South Australia,ADELAIDE,Queensland,GOLD COAST,7,0
+67,South Australia,ADELAIDE,Queensland,GOLD COAST,8,0
+68,South Australia,ADELAIDE,Queensland,GOLD COAST,9,0
+69,South Australia,ADELAIDE,Queensland,GOLD COAST,10,9744
+70,South Australia,ADELAIDE,Queensland,GOLD COAST,11,0
+71,South Australia,ADELAIDE,Queensland,GOLD COAST,12,10434
+72,South Australia,ADELAIDE,Western Australia,PERTH,1,56502
+73,South Australia,ADELAIDE,Western Australia,PERTH,2,48805
+74,South Australia,ADELAIDE,Western Australia,PERTH,3,35323
+75,South Australia,ADELAIDE,Western Australia,PERTH,4,653
+76,South Australia,ADELAIDE,Western Australia,PERTH,5,0
+77,South Australia,ADELAIDE,Western Australia,PERTH,6,0
+78,South Australia,ADELAIDE,Western Australia,PERTH,7,0
+79,South Australia,ADELAIDE,Western Australia,PERTH,8,0
+80,South Australia,ADELAIDE,Western Australia,PERTH,9,0
+81,South Australia,ADELAIDE,Western Australia,PERTH,10,0
+82,South Australia,ADELAIDE,Western Australia,PERTH,11,0
+83,South Australia,ADELAIDE,Western Australia,PERTH,12,8215
+84,South Australia,ADELAIDE,South Australia,PORT LINCOLN,1,14893
+85,South Australia,ADELAIDE,South Australia,PORT LINCOLN,2,14698
+86,South Australia,ADELAIDE,South Australia,PORT LINCOLN,3,11183
+87,South Australia,ADELAIDE,South Australia,PORT LINCOLN,4,564
+88,South Australia,ADELAIDE,South Australia,PORT LINCOLN,5,920
+89,South Australia,ADELAIDE,South Australia,PORT LINCOLN,6,0
+90,South Australia,ADELAIDE,South Australia,PORT LINCOLN,7,0
+91,South Australia,ADELAIDE,South Australia,PORT LINCOLN,8,0
+92,South Australia,ADELAIDE,South Australia,PORT LINCOLN,9,0
+93,South Australia,ADELAIDE,South Australia,PORT LINCOLN,10,9137
+94,South Australia,ADELAIDE,South Australia,PORT LINCOLN,11,0
+95,South Australia,ADELAIDE,South Australia,PORT LINCOLN,12,9286
+96,South Australia,ADELAIDE,New South Wales,SYDNEY,1,151785
+97,South Australia,ADELAIDE,New South Wales,SYDNEY,2,138027
+98,South Australia,ADELAIDE,New South Wales,SYDNEY,3,99202
+99,South Australia,ADELAIDE,New South Wales,SYDNEY,4,2687
+100,South Australia,ADELAIDE,New South Wales,SYDNEY,5,0
+101,South Australia,ADELAIDE,New South Wales,SYDNEY,6,0
+102,South Australia,ADELAIDE,New South Wales,SYDNEY,7,9282
+103,South Australia,ADELAIDE,New South Wales,SYDNEY,8,5082
+104,South Australia,ADELAIDE,New South Wales,SYDNEY,9,10315
+105,South Australia,ADELAIDE,New South Wales,SYDNEY,10,56685
+106,South Australia,ADELAIDE,New South Wales,SYDNEY,11,54523
+107,South Australia,ADELAIDE,New South Wales,SYDNEY,12,49294
+108,New South Wales,ARMIDALE,New South Wales,SYDNEY,1,8069
+109,New South Wales,ARMIDALE,New South Wales,SYDNEY,2,8830
+110,New South Wales,ARMIDALE,New South Wales,SYDNEY,3,5573
+111,New South Wales,ARMIDALE,New South Wales,SYDNEY,4,0
+112,New South Wales,ARMIDALE,New South Wales,SYDNEY,5,0
+113,New South Wales,ARMIDALE,New South Wales,SYDNEY,6,0
+114,New South Wales,ARMIDALE,New South Wales,SYDNEY,7,0
+115,New South Wales,ARMIDALE,New South Wales,SYDNEY,8,0
+116,New South Wales,ARMIDALE,New South Wales,SYDNEY,9,0
+117,New South Wales,ARMIDALE,New South Wales,SYDNEY,10,0
+118,New South Wales,ARMIDALE,New South Wales,SYDNEY,11,0
+119,New South Wales,ARMIDALE,New South Wales,SYDNEY,12,0
+120,Northern Territory,ALICE SPRINGS,Northern Territory,DARWIN,1,4726
+121,Northern Territory,ALICE SPRINGS,Northern Territory,DARWIN,2,0
+122,Northern Territory,ALICE SPRINGS,Northern Territory,DARWIN,3,0
+123,Northern Territory,ALICE SPRINGS,Northern Territory,DARWIN,4,0
+124,Northern Territory,ALICE SPRINGS,Northern Territory,DARWIN,5,0
+125,Northern Territory,ALICE SPRINGS,Northern Territory,DARWIN,6,0
+126,Northern Territory,ALICE SPRINGS,Northern Territory,DARWIN,7,0
+127,Northern Territory,ALICE SPRINGS,Northern Territory,DARWIN,8,0
+128,Northern Territory,ALICE SPRINGS,Northern Territory,DARWIN,9,0
+129,Northern Territory,ALICE SPRINGS,Northern Territory,DARWIN,10,0
+130,Northern Territory,ALICE SPRINGS,Northern Territory,DARWIN,11,0
+131,Northern Territory,ALICE SPRINGS,Northern Territory,DARWIN,12,0
+132,Northern Territory,ALICE SPRINGS,Victoria,MELBOURNE,1,0
+133,Northern Territory,ALICE SPRINGS,Victoria,MELBOURNE,2,0
+134,Northern Territory,ALICE SPRINGS,Victoria,MELBOURNE,3,0
+135,Northern Territory,ALICE SPRINGS,Victoria,MELBOURNE,4,0
+136,Northern Territory,ALICE SPRINGS,Victoria,MELBOURNE,5,0
+137,Northern Territory,ALICE SPRINGS,Victoria,MELBOURNE,6,0
+138,Northern Territory,ALICE SPRINGS,Victoria,MELBOURNE,7,0
+139,Northern Territory,ALICE SPRINGS,Victoria,MELBOURNE,8,0
+140,Northern Territory,ALICE SPRINGS,Victoria,MELBOURNE,9,0
+141,Northern Territory,ALICE SPRINGS,Victoria,MELBOURNE,10,0
+142,Northern Territory,ALICE SPRINGS,Victoria,MELBOURNE,11,0
+143,Northern Territory,ALICE SPRINGS,Victoria,MELBOURNE,12,0
+144,Northern Territory,ALICE SPRINGS,New South Wales,SYDNEY,1,0
+145,Northern Territory,ALICE SPRINGS,New South Wales,SYDNEY,2,0
+146,Northern Territory,ALICE SPRINGS,New South Wales,SYDNEY,3,0
+147,Northern Territory,ALICE SPRINGS,New South Wales,SYDNEY,4,0
+148,Northern Territory,ALICE SPRINGS,New South Wales,SYDNEY,5,0
+149,Northern Territory,ALICE SPRINGS,New South Wales,SYDNEY,6,0
+150,Northern Territory,ALICE SPRINGS,New South Wales,SYDNEY,7,0
+151,Northern Territory,ALICE SPRINGS,New South Wales,SYDNEY,8,0
+152,Northern Territory,ALICE SPRINGS,New South Wales,SYDNEY,9,0
+153,Northern Territory,ALICE SPRINGS,New South Wales,SYDNEY,10,0
+154,Northern Territory,ALICE SPRINGS,New South Wales,SYDNEY,11,0
+155,Northern Territory,ALICE SPRINGS,New South Wales,SYDNEY,12,0
+156,,AYERS ROCK,New South Wales,SYDNEY,1,11470
+157,,AYERS ROCK,New South Wales,SYDNEY,2,9602
+158,,AYERS ROCK,New South Wales,SYDNEY,3,8217
+159,,AYERS ROCK,New South Wales,SYDNEY,4,0
+160,,AYERS ROCK,New South Wales,SYDNEY,5,0
+161,,AYERS ROCK,New South Wales,SYDNEY,6,0
+162,,AYERS ROCK,New South Wales,SYDNEY,7,0
+163,,AYERS ROCK,New South Wales,SYDNEY,8,0
+164,,AYERS ROCK,New South Wales,SYDNEY,9,0
+165,,AYERS ROCK,New South Wales,SYDNEY,10,0
+166,,AYERS ROCK,New South Wales,SYDNEY,11,0
+167,,AYERS ROCK,New South Wales,SYDNEY,12,0
+168,Queensland,BUNDABERG,Queensland,BRISBANE,1,11110
+169,Queensland,BUNDABERG,Queensland,BRISBANE,2,11476
+170,Queensland,BUNDABERG,Queensland,BRISBANE,3,8209
+171,Queensland,BUNDABERG,Queensland,BRISBANE,4,423
+172,Queensland,BUNDABERG,Queensland,BRISBANE,5,0
+173,Queensland,BUNDABERG,Queensland,BRISBANE,6,0
+174,Queensland,BUNDABERG,Queensland,BRISBANE,7,0
+175,Queensland,BUNDABERG,Queensland,BRISBANE,8,0
+176,Queensland,BUNDABERG,Queensland,BRISBANE,9,0
+177,Queensland,BUNDABERG,Queensland,BRISBANE,10,0
+178,Queensland,BUNDABERG,Queensland,BRISBANE,11,0
+179,Queensland,BUNDABERG,Queensland,BRISBANE,12,0
+180,Western Australia,BROOME,Western Australia,PERTH,1,21701
+181,Western Australia,BROOME,Western Australia,PERTH,2,18287
+182,Western Australia,BROOME,Western Australia,PERTH,3,11120
+183,Western Australia,BROOME,Western Australia,PERTH,4,1129
+184,Western Australia,BROOME,Western Australia,PERTH,5,2111
+185,Western Australia,BROOME,Western Australia,PERTH,6,6769
+186,Western Australia,BROOME,Western Australia,PERTH,7,19194
+187,Western Australia,BROOME,Western Australia,PERTH,8,24088
+188,Western Australia,BROOME,Western Australia,PERTH,9,32850
+189,Western Australia,BROOME,Western Australia,PERTH,10,34986
+190,Western Australia,BROOME,Western Australia,PERTH,11,27913
+191,Western Australia,BROOME,Western Australia,PERTH,12,24346
+192,Queensland,BRISBANE,Australian Capital Territory,CANBERRA,1,52607
+193,Queensland,BRISBANE,Australian Capital Territory,CANBERRA,2,45616
+194,Queensland,BRISBANE,Australian Capital Territory,CANBERRA,3,32315
+195,Queensland,BRISBANE,Australian Capital Territory,CANBERRA,4,0
+196,Queensland,BRISBANE,Australian Capital Territory,CANBERRA,5,0
+197,Queensland,BRISBANE,Australian Capital Territory,CANBERRA,6,4003
+198,Queensland,BRISBANE,Australian Capital Territory,CANBERRA,7,11389
+199,Queensland,BRISBANE,Australian Capital Territory,CANBERRA,8,6221
+200,Queensland,BRISBANE,Australian Capital Territory,CANBERRA,9,4328
+201,Queensland,BRISBANE,Australian Capital Territory,CANBERRA,10,20966
+202,Queensland,BRISBANE,Australian Capital Territory,CANBERRA,11,30598
+203,Queensland,BRISBANE,Australian Capital Territory,CANBERRA,12,38885
+204,Queensland,BRISBANE,Queensland,CAIRNS,1,109739
+205,Queensland,BRISBANE,Queensland,CAIRNS,2,79067
+206,Queensland,BRISBANE,Queensland,CAIRNS,3,61085
+207,Queensland,BRISBANE,Queensland,CAIRNS,4,3906
+208,Queensland,BRISBANE,Queensland,CAIRNS,5,4988
+209,Queensland,BRISBANE,Queensland,CAIRNS,6,18143
+210,Queensland,BRISBANE,Queensland,CAIRNS,7,62555
+211,Queensland,BRISBANE,Queensland,CAIRNS,8,69604
+212,Queensland,BRISBANE,Queensland,CAIRNS,9,75016
+213,Queensland,BRISBANE,Queensland,CAIRNS,10,77630
+214,Queensland,BRISBANE,Queensland,CAIRNS,11,74452
+215,Queensland,BRISBANE,Queensland,CAIRNS,12,92584
+216,Queensland,BRISBANE,Northern Territory,DARWIN,1,28226
+217,Queensland,BRISBANE,Northern Territory,DARWIN,2,19858
+218,Queensland,BRISBANE,Northern Territory,DARWIN,3,15128
+219,Queensland,BRISBANE,Northern Territory,DARWIN,4,0
+220,Queensland,BRISBANE,Northern Territory,DARWIN,5,0
+221,Queensland,BRISBANE,Northern Territory,DARWIN,6,0
+222,Queensland,BRISBANE,Northern Territory,DARWIN,7,8066
+223,Queensland,BRISBANE,Northern Territory,DARWIN,8,11060
+224,Queensland,BRISBANE,Northern Territory,DARWIN,9,15789
+225,Queensland,BRISBANE,Northern Territory,DARWIN,10,19197
+226,Queensland,BRISBANE,Northern Territory,DARWIN,11,17384
+227,Queensland,BRISBANE,Northern Territory,DARWIN,12,24347
+228,Queensland,BRISBANE,Queensland,EMERALD,1,15792
+229,Queensland,BRISBANE,Queensland,EMERALD,2,15540
+230,Queensland,BRISBANE,Queensland,EMERALD,3,13052
+231,Queensland,BRISBANE,Queensland,EMERALD,4,0
+232,Queensland,BRISBANE,Queensland,EMERALD,5,0
+233,Queensland,BRISBANE,Queensland,EMERALD,6,0
+234,Queensland,BRISBANE,Queensland,EMERALD,7,0
+235,Queensland,BRISBANE,Queensland,EMERALD,8,0
+236,Queensland,BRISBANE,Queensland,EMERALD,9,0
+237,Queensland,BRISBANE,Queensland,EMERALD,10,0
+238,Queensland,BRISBANE,Queensland,EMERALD,11,0
+239,Queensland,BRISBANE,Queensland,EMERALD,12,9708
+240,Queensland,BRISBANE,Queensland,GLADSTONE,1,18976
+241,Queensland,BRISBANE,Queensland,GLADSTONE,2,18277
+242,Queensland,BRISBANE,Queensland,GLADSTONE,3,13274
+243,Queensland,BRISBANE,Queensland,GLADSTONE,4,1015
+244,Queensland,BRISBANE,Queensland,GLADSTONE,5,1342
+245,Queensland,BRISBANE,Queensland,GLADSTONE,6,2384
+246,Queensland,BRISBANE,Queensland,GLADSTONE,7,0
+247,Queensland,BRISBANE,Queensland,GLADSTONE,8,0
+248,Queensland,BRISBANE,Queensland,GLADSTONE,9,0
+249,Queensland,BRISBANE,Queensland,GLADSTONE,10,8580
+250,Queensland,BRISBANE,Queensland,GLADSTONE,11,9887
+251,Queensland,BRISBANE,Queensland,GLADSTONE,12,11708
+252,Queensland,BRISBANE,Tasmania,HOBART,1,27011
+253,Queensland,BRISBANE,Tasmania,HOBART,2,19518
+254,Queensland,BRISBANE,Tasmania,HOBART,3,14112
+255,Queensland,BRISBANE,Tasmania,HOBART,4,0
+256,Queensland,BRISBANE,Tasmania,HOBART,5,0
+257,Queensland,BRISBANE,Tasmania,HOBART,6,0
+258,Queensland,BRISBANE,Tasmania,HOBART,7,0
+259,Queensland,BRISBANE,Tasmania,HOBART,8,0
+260,Queensland,BRISBANE,Tasmania,HOBART,9,0
+261,Queensland,BRISBANE,Tasmania,HOBART,10,0
+262,Queensland,BRISBANE,Tasmania,HOBART,11,12236
+263,Queensland,BRISBANE,Tasmania,HOBART,12,26820
+264,Queensland,BRISBANE,,HAMILTON ISLAND,1,11666
+265,Queensland,BRISBANE,,HAMILTON ISLAND,2,8878
+266,Queensland,BRISBANE,,HAMILTON ISLAND,3,6578
+267,Queensland,BRISBANE,,HAMILTON ISLAND,4,0
+268,Queensland,BRISBANE,,HAMILTON ISLAND,5,0
+269,Queensland,BRISBANE,,HAMILTON ISLAND,6,0
+270,Queensland,BRISBANE,,HAMILTON ISLAND,7,0
+271,Queensland,BRISBANE,,HAMILTON ISLAND,8,0
+272,Queensland,BRISBANE,,HAMILTON ISLAND,9,0
+273,Queensland,BRISBANE,,HAMILTON ISLAND,10,17984
+274,Queensland,BRISBANE,,HAMILTON ISLAND,11,18863
+275,Queensland,BRISBANE,,HAMILTON ISLAND,12,22349
+276,Queensland,BRISBANE,Queensland,MOUNT ISA,1,11191
+277,Queensland,BRISBANE,Queensland,MOUNT ISA,2,10614
+278,Queensland,BRISBANE,Queensland,MOUNT ISA,3,9073
+279,Queensland,BRISBANE,Queensland,MOUNT ISA,4,2240
+280,Queensland,BRISBANE,Queensland,MOUNT ISA,5,0
+281,Queensland,BRISBANE,Queensland,MOUNT ISA,6,0
+282,Queensland,BRISBANE,Queensland,MOUNT ISA,7,0
+283,Queensland,BRISBANE,Queensland,MOUNT ISA,8,0
+284,Queensland,BRISBANE,Queensland,MOUNT ISA,9,0
+285,Queensland,BRISBANE,Queensland,MOUNT ISA,10,0
+286,Queensland,BRISBANE,Queensland,MOUNT ISA,11,8728
+287,Queensland,BRISBANE,Queensland,MOUNT ISA,12,9238
+288,Queensland,BRISBANE,Victoria,MELBOURNE,1,308815
+289,Queensland,BRISBANE,Victoria,MELBOURNE,2,239671
+290,Queensland,BRISBANE,Victoria,MELBOURNE,3,168894
+291,Queensland,BRISBANE,Victoria,MELBOURNE,4,8637
+292,Queensland,BRISBANE,Victoria,MELBOURNE,5,16128
+293,Queensland,BRISBANE,Victoria,MELBOURNE,6,27098
+294,Queensland,BRISBANE,Victoria,MELBOURNE,7,6580
+295,Queensland,BRISBANE,Victoria,MELBOURNE,8,3677
+296,Queensland,BRISBANE,Victoria,MELBOURNE,9,4401
+297,Queensland,BRISBANE,Victoria,MELBOURNE,10,6050
+298,Queensland,BRISBANE,Victoria,MELBOURNE,11,6220
+299,Queensland,BRISBANE,Victoria,MELBOURNE,12,132589
+300,Queensland,BRISBANE,Queensland,MACKAY,1,62875
+301,Queensland,BRISBANE,Queensland,MACKAY,2,58246
+302,Queensland,BRISBANE,Queensland,MACKAY,3,44894
+303,Queensland,BRISBANE,Queensland,MACKAY,4,6121
+304,Queensland,BRISBANE,Queensland,MACKAY,5,5741
+305,Queensland,BRISBANE,Queensland,MACKAY,6,14021
+306,Queensland,BRISBANE,Queensland,MACKAY,7,28035
+307,Queensland,BRISBANE,Queensland,MACKAY,8,27674
+308,Queensland,BRISBANE,Queensland,MACKAY,9,30264
+309,Queensland,BRISBANE,Queensland,MACKAY,10,34907
+310,Queensland,BRISBANE,Queensland,MACKAY,11,37059
+311,Queensland,BRISBANE,Queensland,MACKAY,12,45599
+312,Queensland,BRISBANE,,MORANBAH,1,0
+313,Queensland,BRISBANE,,MORANBAH,2,0
+314,Queensland,BRISBANE,,MORANBAH,3,0
+315,Queensland,BRISBANE,,MORANBAH,4,0
+316,Queensland,BRISBANE,,MORANBAH,5,0
+317,Queensland,BRISBANE,,MORANBAH,6,0
+318,Queensland,BRISBANE,,MORANBAH,7,0
+319,Queensland,BRISBANE,,MORANBAH,8,0
+320,Queensland,BRISBANE,,MORANBAH,9,0
+321,Queensland,BRISBANE,,MORANBAH,10,0
+322,Queensland,BRISBANE,,MORANBAH,11,0
+323,Queensland,BRISBANE,,MORANBAH,12,0
+324,Queensland,BRISBANE,New South Wales,NEWCASTLE,1,49190
+325,Queensland,BRISBANE,New South Wales,NEWCASTLE,2,44035
+326,Queensland,BRISBANE,New South Wales,NEWCASTLE,3,29530
+327,Queensland,BRISBANE,New South Wales,NEWCASTLE,4,0
+328,Queensland,BRISBANE,New South Wales,NEWCASTLE,5,0
+329,Queensland,BRISBANE,New South Wales,NEWCASTLE,6,0
+330,Queensland,BRISBANE,New South Wales,NEWCASTLE,7,9430
+331,Queensland,BRISBANE,New South Wales,NEWCASTLE,8,4152
+332,Queensland,BRISBANE,New South Wales,NEWCASTLE,9,0
+333,Queensland,BRISBANE,New South Wales,NEWCASTLE,10,0
+334,Queensland,BRISBANE,New South Wales,NEWCASTLE,11,19650
+335,Queensland,BRISBANE,New South Wales,NEWCASTLE,12,31412
+336,Queensland,BRISBANE,Western Australia,PERTH,1,84424
+337,Queensland,BRISBANE,Western Australia,PERTH,2,70677
+338,Queensland,BRISBANE,Western Australia,PERTH,3,56710
+339,Queensland,BRISBANE,Western Australia,PERTH,4,2115
+340,Queensland,BRISBANE,Western Australia,PERTH,5,0
+341,Queensland,BRISBANE,Western Australia,PERTH,6,1317
+342,Queensland,BRISBANE,Western Australia,PERTH,7,7423
+343,Queensland,BRISBANE,Western Australia,PERTH,8,6252
+344,Queensland,BRISBANE,Western Australia,PERTH,9,5692
+345,Queensland,BRISBANE,Western Australia,PERTH,10,5626
+346,Queensland,BRISBANE,Western Australia,PERTH,11,18756
+347,Queensland,BRISBANE,Western Australia,PERTH,12,42637
+348,Queensland,BRISBANE,,PROSERPINE,1,25664
+349,Queensland,BRISBANE,,PROSERPINE,2,17471
+350,Queensland,BRISBANE,,PROSERPINE,3,13687
+351,Queensland,BRISBANE,,PROSERPINE,4,0
+352,Queensland,BRISBANE,,PROSERPINE,5,0
+353,Queensland,BRISBANE,,PROSERPINE,6,2358
+354,Queensland,BRISBANE,,PROSERPINE,7,14052
+355,Queensland,BRISBANE,,PROSERPINE,8,12850
+356,Queensland,BRISBANE,,PROSERPINE,9,16828
+357,Queensland,BRISBANE,,PROSERPINE,10,20829
+358,Queensland,BRISBANE,,PROSERPINE,11,19743
+359,Queensland,BRISBANE,,PROSERPINE,12,21740
+360,Queensland,BRISBANE,Queensland,ROCKHAMPTON,1,40866
+361,Queensland,BRISBANE,Queensland,ROCKHAMPTON,2,38975
+362,Queensland,BRISBANE,Queensland,ROCKHAMPTON,3,29590
+363,Queensland,BRISBANE,Queensland,ROCKHAMPTON,4,2182
+364,Queensland,BRISBANE,Queensland,ROCKHAMPTON,5,3472
+365,Queensland,BRISBANE,Queensland,ROCKHAMPTON,6,8060
+366,Queensland,BRISBANE,Queensland,ROCKHAMPTON,7,15904
+367,Queensland,BRISBANE,Queensland,ROCKHAMPTON,8,16892
+368,Queensland,BRISBANE,Queensland,ROCKHAMPTON,9,19470
+369,Queensland,BRISBANE,Queensland,ROCKHAMPTON,10,23715
+370,Queensland,BRISBANE,Queensland,ROCKHAMPTON,11,25707
+371,Queensland,BRISBANE,Queensland,ROCKHAMPTON,12,30553
+372,Queensland,BRISBANE,New South Wales,SYDNEY,1,377958
+373,Queensland,BRISBANE,New South Wales,SYDNEY,2,340988
+374,Queensland,BRISBANE,New South Wales,SYDNEY,3,228371
+375,Queensland,BRISBANE,New South Wales,SYDNEY,4,14154
+376,Queensland,BRISBANE,New South Wales,SYDNEY,5,18716
+377,Queensland,BRISBANE,New South Wales,SYDNEY,6,37009
+378,Queensland,BRISBANE,New South Wales,SYDNEY,7,94549
+379,Queensland,BRISBANE,New South Wales,SYDNEY,8,18919
+380,Queensland,BRISBANE,New South Wales,SYDNEY,9,10864
+381,Queensland,BRISBANE,New South Wales,SYDNEY,10,10432
+382,Queensland,BRISBANE,New South Wales,SYDNEY,11,26773
+383,Queensland,BRISBANE,New South Wales,SYDNEY,12,120935
+384,Queensland,BRISBANE,Queensland,TOWNSVILLE,1,77333
+385,Queensland,BRISBANE,Queensland,TOWNSVILLE,2,70269
+386,Queensland,BRISBANE,Queensland,TOWNSVILLE,3,56221
+387,Queensland,BRISBANE,Queensland,TOWNSVILLE,4,4193
+388,Queensland,BRISBANE,Queensland,TOWNSVILLE,5,4907
+389,Queensland,BRISBANE,Queensland,TOWNSVILLE,6,15096
+390,Queensland,BRISBANE,Queensland,TOWNSVILLE,7,40490
+391,Queensland,BRISBANE,Queensland,TOWNSVILLE,8,40590
+392,Queensland,BRISBANE,Queensland,TOWNSVILLE,9,44343
+393,Queensland,BRISBANE,Queensland,TOWNSVILLE,10,47414
+394,Queensland,BRISBANE,Queensland,TOWNSVILLE,11,46958
+395,Queensland,BRISBANE,Queensland,TOWNSVILLE,12,61765
+396,Australian Capital Territory,CANBERRA,Victoria,MELBOURNE,1,74654
+397,Australian Capital Territory,CANBERRA,Victoria,MELBOURNE,2,93430
+398,Australian Capital Territory,CANBERRA,Victoria,MELBOURNE,3,57858
+399,Australian Capital Territory,CANBERRA,Victoria,MELBOURNE,4,1949
+400,Australian Capital Territory,CANBERRA,Victoria,MELBOURNE,5,2748
+401,Australian Capital Territory,CANBERRA,Victoria,MELBOURNE,6,5806
+402,Australian Capital Territory,CANBERRA,Victoria,MELBOURNE,7,2219
+403,Australian Capital Territory,CANBERRA,Victoria,MELBOURNE,8,0
+404,Australian Capital Territory,CANBERRA,Victoria,MELBOURNE,9,0
+405,Australian Capital Territory,CANBERRA,Victoria,MELBOURNE,10,0
+406,Australian Capital Territory,CANBERRA,Victoria,MELBOURNE,11,0
+407,Australian Capital Territory,CANBERRA,Victoria,MELBOURNE,12,26961
+408,Australian Capital Territory,CANBERRA,New South Wales,SYDNEY,1,49339
+409,Australian Capital Territory,CANBERRA,New South Wales,SYDNEY,2,73238
+410,Australian Capital Territory,CANBERRA,New South Wales,SYDNEY,3,43011
+411,Australian Capital Territory,CANBERRA,New South Wales,SYDNEY,4,0
+412,Australian Capital Territory,CANBERRA,New South Wales,SYDNEY,5,0
+413,Australian Capital Territory,CANBERRA,New South Wales,SYDNEY,6,0
+414,Australian Capital Territory,CANBERRA,New South Wales,SYDNEY,7,0
+415,Australian Capital Territory,CANBERRA,New South Wales,SYDNEY,8,0
+416,Australian Capital Territory,CANBERRA,New South Wales,SYDNEY,9,0
+417,Australian Capital Territory,CANBERRA,New South Wales,SYDNEY,10,0
+418,Australian Capital Territory,CANBERRA,New South Wales,SYDNEY,11,0
+419,Australian Capital Territory,CANBERRA,New South Wales,SYDNEY,12,0
+420,New South Wales,COFFS HARBOUR,New South Wales,SYDNEY,1,26798
+421,New South Wales,COFFS HARBOUR,New South Wales,SYDNEY,2,23863
+422,New South Wales,COFFS HARBOUR,New South Wales,SYDNEY,3,16353
+423,New South Wales,COFFS HARBOUR,New South Wales,SYDNEY,4,0
+424,New South Wales,COFFS HARBOUR,New South Wales,SYDNEY,5,0
+425,New South Wales,COFFS HARBOUR,New South Wales,SYDNEY,6,0
+426,New South Wales,COFFS HARBOUR,New South Wales,SYDNEY,7,0
+427,New South Wales,COFFS HARBOUR,New South Wales,SYDNEY,8,0
+428,New South Wales,COFFS HARBOUR,New South Wales,SYDNEY,9,0
+429,New South Wales,COFFS HARBOUR,New South Wales,SYDNEY,10,0
+430,New South Wales,COFFS HARBOUR,New South Wales,SYDNEY,11,8725
+431,New South Wales,COFFS HARBOUR,New South Wales,SYDNEY,12,10988
+432,Queensland,CAIRNS,Victoria,MELBOURNE,1,62543
+433,Queensland,CAIRNS,Victoria,MELBOURNE,2,40301
+434,Queensland,CAIRNS,Victoria,MELBOURNE,3,33116
+435,Queensland,CAIRNS,Victoria,MELBOURNE,4,0
+436,Queensland,CAIRNS,Victoria,MELBOURNE,5,0
+437,Queensland,CAIRNS,Victoria,MELBOURNE,6,0
+438,Queensland,CAIRNS,Victoria,MELBOURNE,7,0
+439,Queensland,CAIRNS,Victoria,MELBOURNE,8,0
+440,Queensland,CAIRNS,Victoria,MELBOURNE,9,0
+441,Queensland,CAIRNS,Victoria,MELBOURNE,10,0
+442,Queensland,CAIRNS,Victoria,MELBOURNE,11,0
+443,Queensland,CAIRNS,Victoria,MELBOURNE,12,25461
+444,Queensland,CAIRNS,New South Wales,SYDNEY,1,99432
+445,Queensland,CAIRNS,New South Wales,SYDNEY,2,57804
+446,Queensland,CAIRNS,New South Wales,SYDNEY,3,43391
+447,Queensland,CAIRNS,New South Wales,SYDNEY,4,0
+448,Queensland,CAIRNS,New South Wales,SYDNEY,5,0
+449,Queensland,CAIRNS,New South Wales,SYDNEY,6,0
+450,Queensland,CAIRNS,New South Wales,SYDNEY,7,24123
+451,Queensland,CAIRNS,New South Wales,SYDNEY,8,0
+452,Queensland,CAIRNS,New South Wales,SYDNEY,9,0
+453,Queensland,CAIRNS,New South Wales,SYDNEY,10,0
+454,Queensland,CAIRNS,New South Wales,SYDNEY,11,0
+455,Queensland,CAIRNS,New South Wales,SYDNEY,12,18508
+456,Queensland,CAIRNS,Queensland,TOWNSVILLE,1,8766
+457,Queensland,CAIRNS,Queensland,TOWNSVILLE,2,10007
+458,Queensland,CAIRNS,Queensland,TOWNSVILLE,3,7987
+459,Queensland,CAIRNS,Queensland,TOWNSVILLE,4,1303
+460,Queensland,CAIRNS,Queensland,TOWNSVILLE,5,0
+461,Queensland,CAIRNS,Queensland,TOWNSVILLE,6,0
+462,Queensland,CAIRNS,Queensland,TOWNSVILLE,7,0
+463,Queensland,CAIRNS,Queensland,TOWNSVILLE,8,0
+464,Queensland,CAIRNS,Queensland,TOWNSVILLE,9,0
+465,Queensland,CAIRNS,Queensland,TOWNSVILLE,10,0
+466,Queensland,CAIRNS,Queensland,TOWNSVILLE,11,0
+467,Queensland,CAIRNS,Queensland,TOWNSVILLE,12,0
+468,New South Wales,DUBBO,New South Wales,SYDNEY,1,11666
+469,New South Wales,DUBBO,New South Wales,SYDNEY,2,13909
+470,New South Wales,DUBBO,New South Wales,SYDNEY,3,9859
+471,New South Wales,DUBBO,New South Wales,SYDNEY,4,498
+472,New South Wales,DUBBO,New South Wales,SYDNEY,5,846
+473,New South Wales,DUBBO,New South Wales,SYDNEY,6,0
+474,New South Wales,DUBBO,New South Wales,SYDNEY,7,0
+475,New South Wales,DUBBO,New South Wales,SYDNEY,8,0
+476,New South Wales,DUBBO,New South Wales,SYDNEY,9,0
+477,New South Wales,DUBBO,New South Wales,SYDNEY,10,0
+478,New South Wales,DUBBO,New South Wales,SYDNEY,11,0
+479,New South Wales,DUBBO,New South Wales,SYDNEY,12,0
+480,Northern Territory,DARWIN,Victoria,MELBOURNE,1,22363
+481,Northern Territory,DARWIN,Victoria,MELBOURNE,2,18136
+482,Northern Territory,DARWIN,Victoria,MELBOURNE,3,14761
+483,Northern Territory,DARWIN,Victoria,MELBOURNE,4,0
+484,Northern Territory,DARWIN,Victoria,MELBOURNE,5,0
+485,Northern Territory,DARWIN,Victoria,MELBOURNE,6,0
+486,Northern Territory,DARWIN,Victoria,MELBOURNE,7,0
+487,Northern Territory,DARWIN,Victoria,MELBOURNE,8,0
+488,Northern Territory,DARWIN,Victoria,MELBOURNE,9,0
+489,Northern Territory,DARWIN,Victoria,MELBOURNE,10,0
+490,Northern Territory,DARWIN,Victoria,MELBOURNE,11,0
+491,Northern Territory,DARWIN,Victoria,MELBOURNE,12,0
+492,Northern Territory,DARWIN,Western Australia,PERTH,1,12829
+493,Northern Territory,DARWIN,Western Australia,PERTH,2,11018
+494,Northern Territory,DARWIN,Western Australia,PERTH,3,8935
+495,Northern Territory,DARWIN,Western Australia,PERTH,4,257
+496,Northern Territory,DARWIN,Western Australia,PERTH,5,0
+497,Northern Territory,DARWIN,Western Australia,PERTH,6,0
+498,Northern Territory,DARWIN,Western Australia,PERTH,7,0
+499,Northern Territory,DARWIN,Western Australia,PERTH,8,0
+500,Northern Territory,DARWIN,Western Australia,PERTH,9,0
+501,Northern Territory,DARWIN,Western Australia,PERTH,10,0
+502,Northern Territory,DARWIN,Western Australia,PERTH,11,0
+503,Northern Territory,DARWIN,Western Australia,PERTH,12,0
+504,Northern Territory,DARWIN,New South Wales,SYDNEY,1,20109
+505,Northern Territory,DARWIN,New South Wales,SYDNEY,2,14082
+506,Northern Territory,DARWIN,New South Wales,SYDNEY,3,16628
+507,Northern Territory,DARWIN,New South Wales,SYDNEY,4,0
+508,Northern Territory,DARWIN,New South Wales,SYDNEY,5,0
+509,Northern Territory,DARWIN,New South Wales,SYDNEY,6,0
+510,Northern Territory,DARWIN,New South Wales,SYDNEY,7,0
+511,Northern Territory,DARWIN,New South Wales,SYDNEY,10,0
+512,Northern Territory,DARWIN,New South Wales,SYDNEY,11,0
+513,Northern Territory,DARWIN,New South Wales,SYDNEY,12,0
+514,Western Australia,GERALDTON,Western Australia,PERTH,1,0
+515,Western Australia,GERALDTON,Western Australia,PERTH,2,0
+516,Western Australia,GERALDTON,Western Australia,PERTH,3,0
+517,Western Australia,GERALDTON,Western Australia,PERTH,4,0
+518,Western Australia,GERALDTON,Western Australia,PERTH,5,0
+519,Western Australia,GERALDTON,Western Australia,PERTH,6,0
+520,Western Australia,GERALDTON,Western Australia,PERTH,7,0
+521,Western Australia,GERALDTON,Western Australia,PERTH,8,0
+522,Western Australia,GERALDTON,Western Australia,PERTH,9,0
+523,Western Australia,GERALDTON,Western Australia,PERTH,10,0
+524,Western Australia,GERALDTON,Western Australia,PERTH,11,0
+525,Western Australia,GERALDTON,Western Australia,PERTH,12,0
+526,Tasmania,HOBART,Victoria,MELBOURNE,1,166385
+527,Tasmania,HOBART,Victoria,MELBOURNE,2,135458
+528,Tasmania,HOBART,Victoria,MELBOURNE,3,90499
+529,Tasmania,HOBART,Victoria,MELBOURNE,4,0
+530,Tasmania,HOBART,Victoria,MELBOURNE,5,0
+531,Tasmania,HOBART,Victoria,MELBOURNE,6,0
+532,Tasmania,HOBART,Victoria,MELBOURNE,7,0
+533,Tasmania,HOBART,Victoria,MELBOURNE,8,0
+534,Tasmania,HOBART,Victoria,MELBOURNE,9,0
+535,Tasmania,HOBART,Victoria,MELBOURNE,10,0
+536,Tasmania,HOBART,Victoria,MELBOURNE,11,0
+537,Tasmania,HOBART,Victoria,MELBOURNE,12,54520
+538,Tasmania,HOBART,New South Wales,SYDNEY,1,76832
+539,Tasmania,HOBART,New South Wales,SYDNEY,2,60943
+540,Tasmania,HOBART,New South Wales,SYDNEY,3,40098
+541,Tasmania,HOBART,New South Wales,SYDNEY,4,0
+542,Tasmania,HOBART,New South Wales,SYDNEY,5,0
+543,Tasmania,HOBART,New South Wales,SYDNEY,6,0
+544,Tasmania,HOBART,New South Wales,SYDNEY,7,0
+545,Tasmania,HOBART,New South Wales,SYDNEY,8,0
+546,Tasmania,HOBART,New South Wales,SYDNEY,9,0
+547,Tasmania,HOBART,New South Wales,SYDNEY,10,0
+548,Tasmania,HOBART,New South Wales,SYDNEY,11,21429
+549,Tasmania,HOBART,New South Wales,SYDNEY,12,30020
+550,,HAMILTON ISLAND,Victoria,MELBOURNE,1,9378
+551,,HAMILTON ISLAND,Victoria,MELBOURNE,2,4499
+552,,HAMILTON ISLAND,Victoria,MELBOURNE,3,3655
+553,,HAMILTON ISLAND,Victoria,MELBOURNE,4,0
+554,,HAMILTON ISLAND,Victoria,MELBOURNE,5,0
+555,,HAMILTON ISLAND,Victoria,MELBOURNE,6,0
+556,,HAMILTON ISLAND,Victoria,MELBOURNE,7,0
+557,,HAMILTON ISLAND,Victoria,MELBOURNE,8,0
+558,,HAMILTON ISLAND,Victoria,MELBOURNE,9,0
+559,,HAMILTON ISLAND,Victoria,MELBOURNE,10,0
+560,,HAMILTON ISLAND,Victoria,MELBOURNE,11,0
+561,,HAMILTON ISLAND,Victoria,MELBOURNE,12,0
+562,,HAMILTON ISLAND,New South Wales,SYDNEY,1,25257
+563,,HAMILTON ISLAND,New South Wales,SYDNEY,2,14529
+564,,HAMILTON ISLAND,New South Wales,SYDNEY,3,11840
+565,,HAMILTON ISLAND,New South Wales,SYDNEY,4,0
+566,,HAMILTON ISLAND,New South Wales,SYDNEY,5,0
+567,,HAMILTON ISLAND,New South Wales,SYDNEY,6,0
+568,,HAMILTON ISLAND,New South Wales,SYDNEY,7,0
+569,,HAMILTON ISLAND,New South Wales,SYDNEY,8,0
+570,,HAMILTON ISLAND,New South Wales,SYDNEY,9,0
+571,,HAMILTON ISLAND,New South Wales,SYDNEY,10,0
+572,,HAMILTON ISLAND,New South Wales,SYDNEY,11,0
+573,,HAMILTON ISLAND,New South Wales,SYDNEY,12,0
+574,Western Australia,KALGOORLIE,Western Australia,PERTH,1,19502
+575,Western Australia,KALGOORLIE,Western Australia,PERTH,2,20786
+576,Western Australia,KALGOORLIE,Western Australia,PERTH,3,16909
+577,Western Australia,KALGOORLIE,Western Australia,PERTH,4,3122
+578,Western Australia,KALGOORLIE,Western Australia,PERTH,5,2037
+579,Western Australia,KALGOORLIE,Western Australia,PERTH,6,4515
+580,Western Australia,KALGOORLIE,Western Australia,PERTH,7,9100
+581,Western Australia,KALGOORLIE,Western Australia,PERTH,8,12387
+582,Western Australia,KALGOORLIE,Western Australia,PERTH,9,14545
+583,Western Australia,KALGOORLIE,Western Australia,PERTH,10,17964
+584,Western Australia,KALGOORLIE,Western Australia,PERTH,11,18421
+585,Western Australia,KALGOORLIE,Western Australia,PERTH,12,18087
+586,Western Australia,KARRATHA,Western Australia,PERTH,1,38754
+587,Western Australia,KARRATHA,Western Australia,PERTH,2,35546
+588,Western Australia,KARRATHA,Western Australia,PERTH,3,27615
+589,Western Australia,KARRATHA,Western Australia,PERTH,4,3229
+590,Western Australia,KARRATHA,Western Australia,PERTH,5,2522
+591,Western Australia,KARRATHA,Western Australia,PERTH,6,6706
+592,Western Australia,KARRATHA,Western Australia,PERTH,7,15957
+593,Western Australia,KARRATHA,Western Australia,PERTH,8,20551
+594,Western Australia,KARRATHA,Western Australia,PERTH,9,30324
+595,Western Australia,KARRATHA,Western Australia,PERTH,10,31780
+596,Western Australia,KARRATHA,Western Australia,PERTH,11,30228
+597,Western Australia,KARRATHA,Western Australia,PERTH,12,29104
+598,Tasmania,LAUNCESTON,Victoria,MELBOURNE,1,100569
+599,Tasmania,LAUNCESTON,Victoria,MELBOURNE,2,76723
+600,Tasmania,LAUNCESTON,Victoria,MELBOURNE,3,51238
+601,Tasmania,LAUNCESTON,Victoria,MELBOURNE,4,0
+602,Tasmania,LAUNCESTON,Victoria,MELBOURNE,5,0
+603,Tasmania,LAUNCESTON,Victoria,MELBOURNE,6,0
+604,Tasmania,LAUNCESTON,Victoria,MELBOURNE,7,0
+605,Tasmania,LAUNCESTON,Victoria,MELBOURNE,8,0
+606,Tasmania,LAUNCESTON,Victoria,MELBOURNE,9,0
+607,Tasmania,LAUNCESTON,Victoria,MELBOURNE,10,0
+608,Tasmania,LAUNCESTON,Victoria,MELBOURNE,11,0
+609,Tasmania,LAUNCESTON,Victoria,MELBOURNE,12,38122
+610,Tasmania,LAUNCESTON,New South Wales,SYDNEY,1,30423
+611,Tasmania,LAUNCESTON,New South Wales,SYDNEY,2,24345
+612,Tasmania,LAUNCESTON,New South Wales,SYDNEY,3,16551
+613,Tasmania,LAUNCESTON,New South Wales,SYDNEY,4,0
+614,Tasmania,LAUNCESTON,New South Wales,SYDNEY,5,0
+615,Tasmania,LAUNCESTON,New South Wales,SYDNEY,6,0
+616,Tasmania,LAUNCESTON,New South Wales,SYDNEY,7,0
+617,Tasmania,LAUNCESTON,New South Wales,SYDNEY,8,0
+618,Tasmania,LAUNCESTON,New South Wales,SYDNEY,9,0
+619,Tasmania,LAUNCESTON,New South Wales,SYDNEY,10,0
+620,Tasmania,LAUNCESTON,New South Wales,SYDNEY,11,10247
+621,Tasmania,LAUNCESTON,New South Wales,SYDNEY,12,17870
+622,Queensland,SUNSHINE COAST,Victoria,MELBOURNE,1,45517
+623,Queensland,SUNSHINE COAST,Victoria,MELBOURNE,2,35354
+624,Queensland,SUNSHINE COAST,Victoria,MELBOURNE,3,28603
+625,Queensland,SUNSHINE COAST,Victoria,MELBOURNE,4,0
+626,Queensland,SUNSHINE COAST,Victoria,MELBOURNE,5,0
+627,Queensland,SUNSHINE COAST,Victoria,MELBOURNE,6,0
+628,Queensland,SUNSHINE COAST,Victoria,MELBOURNE,7,0
+629,Queensland,SUNSHINE COAST,Victoria,MELBOURNE,8,0
+630,Queensland,SUNSHINE COAST,Victoria,MELBOURNE,9,0
+631,Queensland,SUNSHINE COAST,Victoria,MELBOURNE,10,0
+632,Queensland,SUNSHINE COAST,Victoria,MELBOURNE,11,0
+633,Queensland,SUNSHINE COAST,Victoria,MELBOURNE,12,24817
+634,Queensland,SUNSHINE COAST,New South Wales,SYDNEY,1,53185
+635,Queensland,SUNSHINE COAST,New South Wales,SYDNEY,2,43142
+636,Queensland,SUNSHINE COAST,New South Wales,SYDNEY,3,31271
+637,Queensland,SUNSHINE COAST,New South Wales,SYDNEY,4,0
+638,Queensland,SUNSHINE COAST,New South Wales,SYDNEY,5,0
+639,Queensland,SUNSHINE COAST,New South Wales,SYDNEY,6,0
+640,Queensland,SUNSHINE COAST,New South Wales,SYDNEY,7,0
+641,Queensland,SUNSHINE COAST,New South Wales,SYDNEY,8,0
+642,Queensland,SUNSHINE COAST,New South Wales,SYDNEY,9,0
+643,Queensland,SUNSHINE COAST,New South Wales,SYDNEY,10,0
+644,Queensland,SUNSHINE COAST,New South Wales,SYDNEY,11,0
+645,Queensland,SUNSHINE COAST,New South Wales,SYDNEY,12,17922
+646,Victoria,MELBOURNE,Victoria,MILDURA,1,16266
+647,Victoria,MELBOURNE,Victoria,MILDURA,2,16699
+648,Victoria,MELBOURNE,Victoria,MILDURA,3,12225
+649,Victoria,MELBOURNE,Victoria,MILDURA,4,497
+650,Victoria,MELBOURNE,Victoria,MILDURA,5,756
+651,Victoria,MELBOURNE,Victoria,MILDURA,6,1723
+652,Victoria,MELBOURNE,Victoria,MILDURA,7,0
+653,Victoria,MELBOURNE,Victoria,MILDURA,8,0
+654,Victoria,MELBOURNE,Victoria,MILDURA,9,0
+655,Victoria,MELBOURNE,Victoria,MILDURA,10,0
+656,Victoria,MELBOURNE,Victoria,MILDURA,11,0
+657,Victoria,MELBOURNE,Victoria,MILDURA,12,0
+658,Victoria,MELBOURNE,New South Wales,NEWCASTLE,1,41065
+659,Victoria,MELBOURNE,New South Wales,NEWCASTLE,2,35026
+660,Victoria,MELBOURNE,New South Wales,NEWCASTLE,3,23086
+661,Victoria,MELBOURNE,New South Wales,NEWCASTLE,4,0
+662,Victoria,MELBOURNE,New South Wales,NEWCASTLE,5,0
+663,Victoria,MELBOURNE,New South Wales,NEWCASTLE,6,0
+664,Victoria,MELBOURNE,New South Wales,NEWCASTLE,7,0
+665,Victoria,MELBOURNE,New South Wales,NEWCASTLE,8,0
+666,Victoria,MELBOURNE,New South Wales,NEWCASTLE,9,0
+667,Victoria,MELBOURNE,New South Wales,NEWCASTLE,10,0
+668,Victoria,MELBOURNE,New South Wales,NEWCASTLE,11,0
+669,Victoria,MELBOURNE,New South Wales,NEWCASTLE,12,22539
+670,Victoria,MELBOURNE,Queensland,GOLD COAST,1,196680
+671,Victoria,MELBOURNE,Queensland,GOLD COAST,2,136318
+672,Victoria,MELBOURNE,Queensland,GOLD COAST,3,101976
+673,Victoria,MELBOURNE,Queensland,GOLD COAST,4,0
+674,Victoria,MELBOURNE,Queensland,GOLD COAST,5,0
+675,Victoria,MELBOURNE,Queensland,GOLD COAST,6,0
+676,Victoria,MELBOURNE,Queensland,GOLD COAST,7,0
+677,Victoria,MELBOURNE,Queensland,GOLD COAST,8,0
+678,Victoria,MELBOURNE,Queensland,GOLD COAST,9,0
+679,Victoria,MELBOURNE,Queensland,GOLD COAST,10,0
+680,Victoria,MELBOURNE,Queensland,GOLD COAST,11,0
+681,Victoria,MELBOURNE,Queensland,GOLD COAST,12,78612
+682,Victoria,MELBOURNE,Western Australia,PERTH,1,195966
+683,Victoria,MELBOURNE,Western Australia,PERTH,2,154410
+684,Victoria,MELBOURNE,Western Australia,PERTH,3,117238
+685,Victoria,MELBOURNE,Western Australia,PERTH,4,6132
+686,Victoria,MELBOURNE,Western Australia,PERTH,5,8804
+687,Victoria,MELBOURNE,Western Australia,PERTH,6,9911
+688,Victoria,MELBOURNE,Western Australia,PERTH,7,3986
+689,Victoria,MELBOURNE,Western Australia,PERTH,8,2006
+690,Victoria,MELBOURNE,Western Australia,PERTH,9,2370
+691,Victoria,MELBOURNE,Western Australia,PERTH,10,0
+692,Victoria,MELBOURNE,Western Australia,PERTH,11,0
+693,Victoria,MELBOURNE,Western Australia,PERTH,12,43167
+694,Victoria,MELBOURNE,New South Wales,SYDNEY,1,742835
+695,Victoria,MELBOURNE,New South Wales,SYDNEY,2,691944
+696,Victoria,MELBOURNE,New South Wales,SYDNEY,3,416263
+697,Victoria,MELBOURNE,New South Wales,SYDNEY,4,17098
+698,Victoria,MELBOURNE,New South Wales,SYDNEY,5,18998
+699,Victoria,MELBOURNE,New South Wales,SYDNEY,6,59259
+700,Victoria,MELBOURNE,New South Wales,SYDNEY,7,30926
+701,Victoria,MELBOURNE,New South Wales,SYDNEY,8,9891
+702,Victoria,MELBOURNE,New South Wales,SYDNEY,9,10155
+703,Victoria,MELBOURNE,New South Wales,SYDNEY,10,11089
+704,Victoria,MELBOURNE,New South Wales,SYDNEY,11,58399
+705,Victoria,MELBOURNE,New South Wales,SYDNEY,12,182987
+706,Victoria,MELBOURNE,Queensland,TOWNSVILLE,1,0
+707,Victoria,MELBOURNE,Queensland,TOWNSVILLE,2,0
+708,Victoria,MELBOURNE,Queensland,TOWNSVILLE,3,0
+709,Victoria,MELBOURNE,Queensland,TOWNSVILLE,4,0
+710,Victoria,MELBOURNE,Queensland,TOWNSVILLE,5,0
+711,Victoria,MELBOURNE,Queensland,TOWNSVILLE,6,0
+712,Victoria,MELBOURNE,Queensland,TOWNSVILLE,7,0
+713,Victoria,MELBOURNE,Queensland,TOWNSVILLE,8,0
+714,Victoria,MELBOURNE,Queensland,TOWNSVILLE,9,0
+715,Victoria,MELBOURNE,Queensland,TOWNSVILLE,10,0
+716,Victoria,MELBOURNE,Queensland,TOWNSVILLE,11,0
+717,Victoria,MELBOURNE,Queensland,TOWNSVILLE,12,0
+718,Queensland,GOLD COAST,New South Wales,SYDNEY,1,275559
+719,Queensland,GOLD COAST,New South Wales,SYDNEY,2,197130
+720,Queensland,GOLD COAST,New South Wales,SYDNEY,3,130820
+721,Queensland,GOLD COAST,New South Wales,SYDNEY,4,1518
+722,Queensland,GOLD COAST,New South Wales,SYDNEY,5,0
+723,Queensland,GOLD COAST,New South Wales,SYDNEY,6,5089
+724,Queensland,GOLD COAST,New South Wales,SYDNEY,7,34335
+725,Queensland,GOLD COAST,New South Wales,SYDNEY,8,2398
+726,Queensland,GOLD COAST,New South Wales,SYDNEY,9,0
+727,Queensland,GOLD COAST,New South Wales,SYDNEY,10,0
+728,Queensland,GOLD COAST,New South Wales,SYDNEY,11,0
+729,Queensland,GOLD COAST,New South Wales,SYDNEY,12,54892
+730,Western Australia,PERTH,Western Australia,PORT HEDLAND,1,30268
+731,Western Australia,PERTH,Western Australia,PORT HEDLAND,2,30938
+732,Western Australia,PERTH,Western Australia,PORT HEDLAND,3,27898
+733,Western Australia,PERTH,Western Australia,PORT HEDLAND,4,5045
+734,Western Australia,PERTH,Western Australia,PORT HEDLAND,5,2877
+735,Western Australia,PERTH,Western Australia,PORT HEDLAND,6,6143
+736,Western Australia,PERTH,Western Australia,PORT HEDLAND,7,12895
+737,Western Australia,PERTH,Western Australia,PORT HEDLAND,8,12694
+738,Western Australia,PERTH,Western Australia,PORT HEDLAND,9,15260
+739,Western Australia,PERTH,Western Australia,PORT HEDLAND,10,17005
+740,Western Australia,PERTH,Western Australia,PORT HEDLAND,11,24455
+741,Western Australia,PERTH,Western Australia,PORT HEDLAND,12,24271
+742,Western Australia,PERTH,New South Wales,SYDNEY,1,148044
+743,Western Australia,PERTH,New South Wales,SYDNEY,2,126619
+744,Western Australia,PERTH,New South Wales,SYDNEY,3,94861
+745,Western Australia,PERTH,New South Wales,SYDNEY,4,5249
+746,Western Australia,PERTH,New South Wales,SYDNEY,5,7100
+747,Western Australia,PERTH,New South Wales,SYDNEY,6,8973
+748,Western Australia,PERTH,New South Wales,SYDNEY,7,8591
+749,Western Australia,PERTH,New South Wales,SYDNEY,8,3913
+750,Western Australia,PERTH,New South Wales,SYDNEY,9,4228
+751,Western Australia,PERTH,New South Wales,SYDNEY,10,0
+752,Western Australia,PERTH,New South Wales,SYDNEY,11,0
+753,Western Australia,PERTH,New South Wales,SYDNEY,12,18286
+754,Western Australia,PERTH,,NEWMAN,1,26738
+755,Western Australia,PERTH,,NEWMAN,2,29022
+756,Western Australia,PERTH,,NEWMAN,3,19476
+757,Western Australia,PERTH,,NEWMAN,4,3946
+758,Western Australia,PERTH,,NEWMAN,5,2871
+759,Western Australia,PERTH,,NEWMAN,6,4195
+760,Western Australia,PERTH,,NEWMAN,7,6549
+761,Western Australia,PERTH,,NEWMAN,8,6023
+762,Western Australia,PERTH,,NEWMAN,9,10796
+763,Western Australia,PERTH,,NEWMAN,10,12747
+764,Western Australia,PERTH,,NEWMAN,11,19991
+765,Western Australia,PERTH,,NEWMAN,12,24418
+766,,PROSERPINE,New South Wales,SYDNEY,1,10090
+767,,PROSERPINE,New South Wales,SYDNEY,2,0
+768,,PROSERPINE,New South Wales,SYDNEY,3,0
+769,,PROSERPINE,New South Wales,SYDNEY,4,0
+770,,PROSERPINE,New South Wales,SYDNEY,5,0
+771,,PROSERPINE,New South Wales,SYDNEY,6,0
+772,,PROSERPINE,New South Wales,SYDNEY,7,0
+773,,PROSERPINE,New South Wales,SYDNEY,8,0
+774,,PROSERPINE,New South Wales,SYDNEY,9,0
+775,,PROSERPINE,New South Wales,SYDNEY,10,0
+776,,PROSERPINE,New South Wales,SYDNEY,11,0
+777,,PROSERPINE,New South Wales,SYDNEY,12,0
+778,New South Wales,PORT MACQUARIE,New South Wales,SYDNEY,1,14785
+779,New South Wales,PORT MACQUARIE,New South Wales,SYDNEY,2,13978
+780,New South Wales,PORT MACQUARIE,New South Wales,SYDNEY,3,10334
+781,New South Wales,PORT MACQUARIE,New South Wales,SYDNEY,4,0
+782,New South Wales,PORT MACQUARIE,New South Wales,SYDNEY,5,0
+783,New South Wales,PORT MACQUARIE,New South Wales,SYDNEY,6,0
+784,New South Wales,PORT MACQUARIE,New South Wales,SYDNEY,7,0
+785,New South Wales,PORT MACQUARIE,New South Wales,SYDNEY,8,0
+786,New South Wales,PORT MACQUARIE,New South Wales,SYDNEY,9,0
+787,New South Wales,PORT MACQUARIE,New South Wales,SYDNEY,10,0
+788,New South Wales,PORT MACQUARIE,New South Wales,SYDNEY,11,0
+789,New South Wales,PORT MACQUARIE,New South Wales,SYDNEY,12,0
+790,New South Wales,BALLINA,New South Wales,SYDNEY,1,46982
+791,New South Wales,BALLINA,New South Wales,SYDNEY,2,32604
+792,New South Wales,BALLINA,New South Wales,SYDNEY,3,22563
+793,New South Wales,BALLINA,New South Wales,SYDNEY,4,0
+794,New South Wales,BALLINA,New South Wales,SYDNEY,5,2367
+795,New South Wales,BALLINA,New South Wales,SYDNEY,6,5583
+796,New South Wales,BALLINA,New South Wales,SYDNEY,7,26844
+797,New South Wales,BALLINA,New South Wales,SYDNEY,8,26626
+798,New South Wales,BALLINA,New South Wales,SYDNEY,9,35315
+799,New South Wales,BALLINA,New South Wales,SYDNEY,10,49871
+800,New South Wales,BALLINA,New South Wales,SYDNEY,11,52504
+801,New South Wales,BALLINA,New South Wales,SYDNEY,12,52850
+802,New South Wales,SYDNEY,New South Wales,TAMWORTH,1,13401
+803,New South Wales,SYDNEY,New South Wales,TAMWORTH,2,13240
+804,New South Wales,SYDNEY,New South Wales,TAMWORTH,3,9023
+805,New South Wales,SYDNEY,New South Wales,TAMWORTH,4,0
+806,New South Wales,SYDNEY,New South Wales,TAMWORTH,5,0
+807,New South Wales,SYDNEY,New South Wales,TAMWORTH,6,0
+808,New South Wales,SYDNEY,New South Wales,TAMWORTH,7,0
+809,New South Wales,SYDNEY,New South Wales,TAMWORTH,8,0
+810,New South Wales,SYDNEY,New South Wales,TAMWORTH,9,0
+811,New South Wales,SYDNEY,New South Wales,TAMWORTH,10,0
+812,New South Wales,SYDNEY,New South Wales,TAMWORTH,11,0
+813,New South Wales,SYDNEY,New South Wales,TAMWORTH,12,0
+814,New South Wales,SYDNEY,Queensland,TOWNSVILLE,1,14360
+815,New South Wales,SYDNEY,Queensland,TOWNSVILLE,2,8097
+816,New South Wales,SYDNEY,Queensland,TOWNSVILLE,3,6579
+817,New South Wales,SYDNEY,Queensland,TOWNSVILLE,4,0
+818,New South Wales,SYDNEY,Queensland,TOWNSVILLE,5,0
+819,New South Wales,SYDNEY,Queensland,TOWNSVILLE,6,0
+820,New South Wales,SYDNEY,Queensland,TOWNSVILLE,7,0
+821,New South Wales,SYDNEY,Queensland,TOWNSVILLE,8,0
+822,New South Wales,SYDNEY,Queensland,TOWNSVILLE,9,0
+823,New South Wales,SYDNEY,Queensland,TOWNSVILLE,10,0
+824,New South Wales,SYDNEY,Queensland,TOWNSVILLE,11,0
+825,New South Wales,SYDNEY,Queensland,TOWNSVILLE,12,0
+826,New South Wales,SYDNEY,New South Wales,WAGGA WAGGA,1,11189
+827,New South Wales,SYDNEY,New South Wales,WAGGA WAGGA,2,13634
+828,New South Wales,SYDNEY,New South Wales,WAGGA WAGGA,3,9344
+829,New South Wales,SYDNEY,New South Wales,WAGGA WAGGA,4,269
+830,New South Wales,SYDNEY,New South Wales,WAGGA WAGGA,5,549
+831,New South Wales,SYDNEY,New South Wales,WAGGA WAGGA,6,0
+832,New South Wales,SYDNEY,New South Wales,WAGGA WAGGA,7,0
+833,New South Wales,SYDNEY,New South Wales,WAGGA WAGGA,8,0
+834,New South Wales,SYDNEY,New South Wales,WAGGA WAGGA,9,0
+835,New South Wales,SYDNEY,New South Wales,WAGGA WAGGA,10,0
+836,New South Wales,SYDNEY,New South Wales,WAGGA WAGGA,11,0
+837,New South Wales,SYDNEY,New South Wales,WAGGA WAGGA,12,0
