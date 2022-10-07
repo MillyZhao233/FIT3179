@@ -1,0 +1,94 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 400,
+    "height": 250,
+    "config": {
+      "view": {
+        "stroke": "transparent"
+      },"axis": {"labelFont": "Open Sans", "titleFont": "Open Sans"},
+      "legend": {"labelFont": "Open Sans", "titleFont": "Open Sans"},
+      "header": {"labelFont": "Open Sans", "titleFont": "Open Sans"},
+      "mark": {"font": "Open Sans"},
+      "title": {"font": "Open Sans", "subtitleFont": "Open Sans"}
+    },"background": "#f2f3f7",
+    "data": {
+      "url": "https://raw.githubusercontent.com/MillyZhao233/FIT3179/main/data/top_route.csv"
+    },
+    "params": [
+      {
+        "name": "Year_selection",
+        "bind": {
+          "input": "select",
+          "options": [
+            2018,
+            2019,
+            2020
+          ],
+          "labels": [
+            "2018",
+            "2019",
+            "2020"
+          ],
+          "name": "Year: "
+        }, "value": 2018
+      }
+    ],
+    "transform": [
+      {
+        "filter": "Year_selection == null || datum.Year == Year_selection"
+      }
+    ],
+    "encoding": {
+      "y": {
+        "field": "Route",
+        "type": "nominal",
+        "title": "Air route",
+        "sort": null,
+        "axis": {
+          "grid": false
+        }
+      },
+      "x": {
+        "field": "Total",
+        "type": "quantitative",
+        "title": "Total passenger",
+        "axis": {
+          "grid": false
+        }
+      },
+      "tooltip": [
+          {
+              "field": "Route",
+              "type": "nominal",
+              "title": "Air route"
+          },
+          {
+              "field": "Total",
+              "type": "quantitative",
+              "format": ".2f",
+              "title": "Total passenger"
+          }   
+        ]
+    },
+    "layer": [
+      {
+        "mark": "bar"
+      },
+      {
+        "mark": {
+          "type": "text",
+          "align": "left",
+          "baseline": "middle",
+          "dx": 3
+        },
+        "encoding": {
+          "text": {
+            "field": "Total",
+            "type": "quantitative",
+            "format": ".2f"
+          }
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,51 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 300,
+  "title": "Departure passengers in Australia (2020)",
+  "data": {
+    "url": "https://raw.githubusercontent.com/MillyZhao233/FIT3179/main/data/2020_processed_trip.csv"
+  },
+  "params": [
+    {
+      "name": "Month_selection",
+      "bind": {
+        "input": "select",
+        "options": [1,2,3,4,5,6,7,8,9,10,11,12],
+        "labels": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+        "name": "Month: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "Month_selection == null || datum.Month_num == Month_selection"
+    },
+    {
+      "lookup": "City1_State",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/MillyZhao233/FIT3179_HW9/458d8bdce8cb2ffc0d89c84f1b7e77ac45148298/states.json",
+          "format": {"type": "topojson", "feature": "states"}
+        },
+        "key": "properties.STATE_NAME"
+      },
+        "as": "geo"
+    }, {
+    "joinaggregate": [{
+      "op": "sum",
+      "field": "Passenger_Trips",
+      "as": "Total Passenger"
+    }],"groupby": ["City1_State"]}
+  ],
+  "projection": {"type": "equirectangular"},
+  "mark": "geoshape",
+  "encoding": {
+    "shape": {"field": "geo", "type": "geojson"},
+    "color": {"field": "Total Passenger", "type": "quantitative"},
+    "tooltip": [
+      {"field": "City1_State", "type": "nominal"},
+      {"field": "Total Passenger", "type": "quantitative"}
+    ]
+  }
+}

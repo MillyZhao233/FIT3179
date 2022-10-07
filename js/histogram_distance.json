@@ -1,0 +1,59 @@
+{
+  "data": {
+    "url": "https://raw.githubusercontent.com/MillyZhao233/FIT3179/main/data/audomcitypairs-202102.csv"
+  }, "background": "#f2f3f7",
+  "mark": "bar",
+  "params": [
+    {
+      "name": "Year_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020
+        ],
+        "labels": [
+          "2015",
+          "2016",
+          "2017",
+          "2018",
+          "2019",
+          "2020"
+        ],
+        "name": "Year: "
+      }, "value": 2018
+    }
+  ],
+  "transform": [
+    {
+      "filter": "Year_selection == null || datum.Year == Year_selection"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "bin": true,
+      "field": "Distance_GC_(km)",
+      "type": "quantitative",
+      "title": "Distance (km)",
+      "scale": {}
+    },
+    "y": {
+      "aggregate": "count",
+      "title": "Count",
+      "field": "*",
+      "type": "quantitative"
+    }
+  },
+  "config": {
+    "line": {
+      "point": true
+    },
+    "scale": {
+      "useUnaggregatedDomain": true
+    }
+  }
+}
