@@ -1,0 +1,82 @@
+{
+    "data": {
+        "url": "https://raw.githubusercontent.com/MillyZhao233/FIT3179/main/data/audomcitypairs-202102.csv"
+    }, 
+    "mark": "bar",
+    "params": [
+        {
+          "name": "Year_selection",
+          "bind": {
+            "input": "select",
+            "options": [
+              2015,
+              2016,
+              2017,
+              2018,
+              2019,
+              2020
+            ],
+            "labels": [
+              "2015",
+              "2016",
+              "2017",
+              "2018",
+              "2019",
+              "2020"
+            ],
+            "name": "Year: "
+          }, "value": 2018
+        }
+      ],
+      "transform": [
+        {
+          "filter": "Year_selection == null || datum.Year == Year_selection"
+        }
+      ],
+    "encoding": {
+      "y": {
+        "field": "City1",
+        "type": "nominal",
+        "title": "City",
+        "sort": "-x",
+        "axis": {
+            "grid": false
+          },
+        "scale": {
+          "rangeStep": 12
+        }
+      },
+      "x": {
+        "aggregate": "count",
+        "field": "City2",
+        "title": "Count of air routes",
+        "type": "quantitative"
+      },
+      "color": {
+        "aggregate": "count",
+        "field": "City2",
+        "type": "quantitative"
+      },
+      "tooltip": [
+        {
+            "field": "City1",
+            "type": "nominal",
+            "title": "City"
+        },
+        {
+            "aggregate": "count",
+            "field": "City2",
+            "title": "Count of routes",
+            "type": "quantitative"
+        }   
+      ]
+    },
+    "config": {
+      "line": {
+        "point": true
+      },
+      "scale": {
+        "useUnaggregatedDomain": true
+      }
+    }
+  }
