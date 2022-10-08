@@ -1,7 +1,7 @@
 {
     "data": {
         "url": "https://raw.githubusercontent.com/MillyZhao233/FIT3179/main/data/audomcitypairs-202102.csv"
-    }, 
+    }, "background": "#f2f3f7",
     "mark": "bar",
     "params": [
         {
